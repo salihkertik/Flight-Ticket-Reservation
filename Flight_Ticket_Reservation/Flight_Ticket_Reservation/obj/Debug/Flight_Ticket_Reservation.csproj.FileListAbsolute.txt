@@ -1,0 +1,10 @@
+C:\Users\Salih\Desktop\Udemy_Project\Flight_Ticket_Reservation\Flight_Ticket_Reservation\bin\Debug\Flight_Ticket_Reservation.exe.config
+C:\Users\Salih\Desktop\Udemy_Project\Flight_Ticket_Reservation\Flight_Ticket_Reservation\bin\Debug\Flight_Ticket_Reservation.exe
+C:\Users\Salih\Desktop\Udemy_Project\Flight_Ticket_Reservation\Flight_Ticket_Reservation\bin\Debug\Flight_Ticket_Reservation.pdb
+C:\Users\Salih\Desktop\Udemy_Project\Flight_Ticket_Reservation\Flight_Ticket_Reservation\obj\Debug\Flight_Ticket_Reservation.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\Udemy_Project\Flight_Ticket_Reservation\Flight_Ticket_Reservation\obj\Debug\Flight_Ticket_Reservation.Form1.resources
+C:\Users\Salih\Desktop\Udemy_Project\Flight_Ticket_Reservation\Flight_Ticket_Reservation\obj\Debug\Flight_Ticket_Reservation.Properties.Resources.resources
+C:\Users\Salih\Desktop\Udemy_Project\Flight_Ticket_Reservation\Flight_Ticket_Reservation\obj\Debug\Flight_Ticket_Reservation.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\Udemy_Project\Flight_Ticket_Reservation\Flight_Ticket_Reservation\obj\Debug\Flight_Ticket_Reservation.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Udemy_Project\Flight_Ticket_Reservation\Flight_Ticket_Reservation\obj\Debug\Flight_Ticket_Reservation.exe
+C:\Users\Salih\Desktop\Udemy_Project\Flight_Ticket_Reservation\Flight_Ticket_Reservation\obj\Debug\Flight_Ticket_Reservation.pdb
